@@ -1,4 +1,4 @@
-# OLÁ, MUNDO!
+# HELLO, WORLD!
 Hi 👋, I'm Robert! A passionate Data Science student from Brazil.
 
 🌱 I’m currently studying Data Science and Computer Science.
