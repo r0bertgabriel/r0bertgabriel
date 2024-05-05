@@ -1,7 +1,9 @@
-- 👋 Olá, Me chamo Robert Gabriel e atualmente sou estudante de Análise e desenvolvimento de sistemas.
+Hi 👋, I'm Robert! A passionate Data Science student from Brazil.
 
-- 😄 Proomes: Ele / Dele
-  
+🌱 I’m currently studying Data Science and Computer Science.
+
+👨‍💻 More about me
+💬 I am 26 years old, currently living in Brazil. I  have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning.
 
 <!---
 devr0bert/devr0bert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
