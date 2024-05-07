@@ -1,7 +1,7 @@
 # HELLO, WORLD!
 Hi 👋, I'm Robert! A passionate Data Science student from Brazil.
 
-🌱 I’m currently studying Data Science and Computer Science.
+🌱 I’m currently studying Data Science and Systems analysis and development.
 
 👨‍💻 More about me
 💬 I am 27 years old, currently living in Brazil. I  have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning.
