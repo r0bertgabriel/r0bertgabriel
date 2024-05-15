@@ -1,4 +1,8 @@
-# HELLO, WORLD!
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
+    
 Hi 👋, I'm Robert! A passionate Data Science student from Brazil.
 
 🌱 I am currently a student of Systems Analysis e Development && Data Science and Analysis. Eventually I am a student in the area of Information Security
@@ -6,12 +10,18 @@ Hi 👋, I'm Robert! A passionate Data Science student from Brazil.
 👨‍💻 More about me:
 💬 I am 27 years old, currently living in Brazil. I  have experience with SQL, Python, Linux, Data Analysis, Data visualization, Machine Learning, Linear algebra and statistics.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devr0bert&show_icons=true&theme=dark)
+
+
+
 <!---
 devr0bert/devr0bert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Porfolio:
-<div align="left">
+<!-- Portfolio -->
+## Portfolio:
+
+
 
 ## Programming Languages
 
