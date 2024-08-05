@@ -8,7 +8,7 @@ Hi 👋, I'm Robert! A passionate Data Science student from Brazil.
 🌱 I am currently a student of Systems Analysis e Development && Data Science and Analysis. Eventually I am a student in the area of Information Security
 
 👨‍💻 More about me:
-💬 I am 27 years old, currently living in Brazil. I  have experience with SQL, Python, Linux,Shell Script, Data Analysis, Data visualization, Machine Learning, Linear Algebra and Statistics.
+💬 I am 27 years old, currently living in Brazil. I  have experience with SQL, Python, Linux, Shell Script, Data Analysis, Data visualization, Machine Learning, Deep Learning, Linear Algebra and Statistics.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0bertds&show_icons=true&theme=dark)
 
