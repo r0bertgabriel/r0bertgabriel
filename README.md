@@ -17,10 +17,6 @@
 - 💬 I enjoy learning and applying new technologies to solve real-world problems.
 - 🛠️ I am always open to collaborating on interesting projects and ideas.
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/your-username?style=social)
-
-
 
 ## GitHub Stats
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0bertds&show_icons=true&theme=dark)
@@ -66,7 +62,7 @@
 | Category          | Skills                                         |
 |-------------------|------------------------------------------------|
 | Programming       | Python, SQL, Shell Script                      |
-| Operating Systems | Linux                                          |
+| Operating Systems | Linux, Windows                                 |
 | Data Science      | Data Analysis, Data Visualization, ML, DL     |
 | Mathematics       | Linear Algebra, Statistics                     |
 
