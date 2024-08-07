@@ -3,18 +3,24 @@
   <p>I'm Robert, a passionate Data Science student from Brazil.</p>
 </div>
 
----
 
 ## About Me
 🌱 I am currently a student of Systems Analysis and Development, and Data Science and Analysis. I am also pursuing studies in Information Security.
 
 💬 I am 27 years old, currently living in Brazil. I have experience with:
 - **Programming Languages**: SQL, Python, Shell Script
-- **Operating Systems**: Linux
+- **Operating Systems**: Linux, Windows
 - **Data Science**: Data Analysis, Data Visualization, Machine Learning, Deep Learning
 - **Mathematics**: Linear Algebra, Statistics
 
----
+## More About Me
+- 💬 I enjoy learning and applying new technologies to solve real-world problems.
+- 🛠️ I am always open to collaborating on interesting projects and ideas.
+
+![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/your-username?style=social)
+
+
 
 ## GitHub Stats
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0bertds&show_icons=true&theme=dark)
@@ -54,6 +60,18 @@
 </div>
 
 ---
+
+## Skills
+
+| Category          | Skills                                         |
+|-------------------|------------------------------------------------|
+| Programming       | Python, SQL, Shell Script                      |
+| Operating Systems | Linux                                          |
+| Data Science      | Data Analysis, Data Visualization, ML, DL     |
+| Mathematics       | Linear Algebra, Statistics                     |
+
+
+
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
