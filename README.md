@@ -25,8 +25,8 @@
 
 ## Portfolio
 <!-- Add links to your portfolio projects here -->
-- [Data Collection with IoT](https://github.com/r0bertds/ESP32NativeSense): Using esp32 boards for data collection, analysis and visualization with real-time dashboards
-- [Machine learning in 5g transmission networks](https://github.com/Hiarleyy/Ns-3-simulations): Analysis and development of smart mobility systems in the context of millimeter waves 
+- [Data Collection with IoT](https://github.com/r0bertds/ESP32NativeSense): Using esp32 boards for data collection, analysis and visualization with real-time dashboards.
+- [Machine learning in 5g transmission networks](https://github.com/Hiarleyy/Ns-3-simulations): Analysis and development of smart mobility systems in the context of millimeter waves.
 
 ---
 
