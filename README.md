@@ -6,7 +6,9 @@
 
 ## About Me
 🌱 I am currently a Systems Analysis and Development student, and a researcher in Data Science and Analysis. I am also occasionally an information security enthusiast ;D
+
 💬 I am 27 years old, currently living in Brazil. I have experience with:
+
 - **Programming Languages**: SQL, Python, R, Shell Script
 - **Tools & Frameworks**: Bash, Anaconda, Jupyter, SQLite
 - **Operating Systems**: Linux Desktop and Linux Server, Windows
