@@ -25,8 +25,8 @@
 
 ## Portfolio
 <!-- Add links to your portfolio projects here -->
-- [Project 1](https://github.com/your-username/project1): Description of project 1.
-- [Project 2](https://github.com/your-username/project2): Description of project 2.
+- [Data Collection with IoT](https://github.com/r0bertds/ESP32NativeSense): Using esp32 boards for data collection, analysis and visualization with real-time dashboards
+- [Machine learning in 5g transmission networks](https://github.com/Hiarleyy/Ns-3-simulations): Analysis and development of smart mobility systems in the context of millimeter waves 
 
 ---
 
@@ -56,17 +56,6 @@
 </div>
 
 ---
-
-## Skills
-
-| Category          | Skills                                         |
-|-------------------|------------------------------------------------|
-| Programming       | Python, SQL, Shell Script                      |
-| Operating Systems | Linux, Windows                                 |
-| Data Science      | Data Analysis, Data Visualization, ML, DL     |
-| Mathematics       | Linear Algebra, Statistics                     |
-
-
 
 
 ## Connect with Me
