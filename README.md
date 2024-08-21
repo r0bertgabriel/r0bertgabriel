@@ -9,6 +9,7 @@
 
 💬 I am 27 years old, currently living in Brazil. I have experience with:
 - **Programming Languages**: SQL, Python, R, Shell Script
+- **Tools & Frameworks**: Bash, Anaconda, Jupyter, SQLite
 - **Operating Systems**: Linux Desktop and Linux Server, Windows
 - **Data Science**: Data Analysis, Data Visualization, Machine Learning, Deep Learning and Storytelling
 - **Mathematics**: Linear Algebra, Statistics
