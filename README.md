@@ -8,13 +8,13 @@
 🌱 I am currently a student of Systems Analysis and Development, and Data Science and Analysis. I am also pursuing studies in Information Security.
 
 💬 I am 27 years old, currently living in Brazil. I have experience with:
-- **Programming Languages**: SQL, Python, Shell Script
-- **Operating Systems**: Linux, Windows
-- **Data Science**: Data Analysis, Data Visualization, Machine Learning, Deep Learning
+- **Programming Languages**: SQL, Python, R, Shell Script
+- **Operating Systems**: Linux Desktop and Linux Server, Windows
+- **Data Science**: Data Analysis, Data Visualization, Machine Learning, Deep Learning and Storytelling
 - **Mathematics**: Linear Algebra, Statistics
 
 ## More About Me
-- 💬 I enjoy learning and applying new technologies to solve real-world problems.
+- 💬 I enjoy learning and applying new technologies to solve real-world problems. I currently use project-based learning methodology when I want to learn something new.
 - 🛠️ I am always open to collaborating on interesting projects and ideas.
 
 
