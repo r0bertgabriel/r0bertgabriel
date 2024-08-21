@@ -12,7 +12,7 @@
 - **Programming Languages**: SQL, Python, R, Shell Script
 - **Tools & Frameworks**: Bash, Anaconda, Jupyter, SQLite
 - **Operating Systems**: Linux Desktop and Linux Server, Windows
-- **Data Science**: Data Analysis, Data Visualization, Machine Learning, Deep Learning and Storytelling
+- **Data Science**: Data Analysis, Data Visualization, Machine Learning and Storytelling
 - **Mathematics**: Linear Algebra, Statistics
 
 ## More About Me
