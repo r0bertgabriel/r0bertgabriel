@@ -7,7 +7,7 @@
 ## About Me
 🌱 I am currently a Systems Analysis and Development student and a researcher in Data Science and Analysis, with a focus on millimeter waves, affiliated with the Faculty of Computing (FACOMP) of UFPA, Castanhal campus. I am also an occasional information security enthusiast.
 
-💬 I am 27 years old, currently living in Brazil. I have experience with:
+💬 I have experience with:
 
 - **Programming Languages**: SQL, Python, R, Shell Script
 - **Tools & Frameworks**: Bash, Anaconda, Jupyter, SQLite
