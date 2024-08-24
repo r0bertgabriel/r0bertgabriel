@@ -100,15 +100,6 @@
 ###
 
 
-
-<img align="right" height="150" src="https://imgur.com/a/RpsRXMt"/>
-
-
-
-  
-
-
-
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - [Twitter](https://twitter.com/your-twitter)
 - [Portfolio](https://your-portfolio.com)
