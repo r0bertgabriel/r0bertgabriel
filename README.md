@@ -76,7 +76,6 @@
 <img src="https://raw.githubusercontent.com/r0bertds/r0bertds/output/snake.svg" alt="Snake animation" />
 
 
-## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - [Twitter](https://twitter.com/your-twitter)
 - [Portfolio](https://your-portfolio.com)
