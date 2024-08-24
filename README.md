@@ -4,6 +4,14 @@
 </div>
 
 
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+
+
 ## About Me
 🌱  I am currently a Systems Analysis and Development student and a researcher in Data Science and Analysis, with a focus on millimeter waves, affiliated with the Faculty of Computing (FACOMP) of UFPA, Castanhal campus. I am also an occasional information security enthusiast.
 
@@ -26,11 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r0bertds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 
  
@@ -49,7 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
 </div>
 
----
 
 ## Tools & Frameworks
 <div align="left">
@@ -60,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda logo"  />
 </div>
 
----
+
 
 ## Libraries
 <div align="left">
@@ -68,7 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo"  />
 </div>
 
----
+
 
 
   
