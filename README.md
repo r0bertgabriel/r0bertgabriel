@@ -9,7 +9,7 @@
 
 💬  I have experience with:
 
-- **Programming Languages**: SQL, Python, R, C++ and Shell Script
+- **Programming Languages**: SQL, Python, R, C++, Shell Script, Goland
 - **Tools & Frameworks**: Bash, Anaconda, Jupyter, SQLite
 - **Operating Systems**: Linux Desktop and Linux Server, Windows
 - **Data Science**: Data Analysis, Data Visualization, Machine Learning and Storytelling
