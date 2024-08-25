@@ -103,7 +103,8 @@
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - [Twitter](https://twitter.com/your-twitter)
 - [Portfolio](https://your-portfolio.com)
-- Email: robertgabriel@disroot.org, public-key: A6E3823D10D27B7AD5E0690F8CFC9123D376DE8B
+- Email: robertgabriel@disroot.org,
+     public-key: A6E3823D10D27B7AD5E0690F8CFC9123D376DE8B
 
 
 
