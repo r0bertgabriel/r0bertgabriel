@@ -9,8 +9,8 @@
 
 💬  I have experience with:
 
-- **Programming Languages**: SQL, Python, C++, Shell Script,
-- **Tools & Frameworks**: Bash, Anaconda, Jupyter, SQLite
+- **Programming Languages**: SQL, Python, C++, Shell Script, Go
+- **Tools & Frameworks**: Bash, Anaconda
 - **Operating Systems**: Linux
 - **Data Science**: Data Analysis, Data Visualization, Machine Learning and Storytelling
 - **Mathematics**: Linear Algebra, Statistics
@@ -42,12 +42,6 @@
 ## Programming Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
