@@ -10,8 +10,7 @@
 💬  I have experience with:
 
 - **Programming Languages**: SQL, Python, Shell Script, Go
-- **Tools & Frameworks**: Bash, Anaconda
-- **Operating Systems**: Linux
+- **Tools & Frameworks**: Bash, Anaconda, Docker
 - **Data Science**: Data Analysis, Data Visualization, Machine Learning and Storytelling
 - **Mathematics**: Linear Algebra, Statistics
 
