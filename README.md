@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hello World! 👋</h2>
-  <p>I'm Robert, a passionate Data Science/Backend student from Brazil.</p>
+  <p>I'm Robert.</p>
 </div>
 
 
