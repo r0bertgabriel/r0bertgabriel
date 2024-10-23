@@ -5,7 +5,7 @@
 
 
 ## About Me
-🌱  I currently work with backend development and automation at [Novo Lar](www.github.com/novolar). I love studying about Data Science and Analysis. I am affiliated with the Faculty of Computing (FACOMP) at UFPA, where I do research focusing on millimeter waves. I am also an occasional information security enthusiast.
+🌱  I currently work with backend development and automation at [Novo lar](https://github.com/novolar). I love studying about Data Science and Analysis. I am affiliated with the Faculty of Computing (FACOMP) at UFPA, where I do research focusing on millimeter waves. I am also an occasional information security enthusiast.
 💬  I have experience with:
 
 - **Programming Languages**: SQL, Python, Shell Script, Go
