@@ -60,8 +60,8 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="11" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -70,10 +70,16 @@
   <img width="11" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
   <img width="11" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
   <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
 </div>
+
+###
+
+
+
 
 ###
 
