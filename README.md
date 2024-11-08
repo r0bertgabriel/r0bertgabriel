@@ -73,7 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
+
 </div>
 
 ###
