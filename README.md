@@ -83,7 +83,7 @@
 
 ###
 
-## Libraries
+## Data Science
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="11" />
