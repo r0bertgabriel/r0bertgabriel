@@ -9,7 +9,7 @@
 
 
 ## About Me
-🧑‍💻  I currently work with web, desktop and cloud application development; automation, backend and artificial intelligence management. I love studying about Data Science and Analysis. I am also affiliated with the Faculty of Computer Science (FACOMP) at UFPA, where I do research focusing on millimeter waves. I am also an occasional information security enthusiast.
+🧑‍💻 Atualmente trabalho com desenvolvimento de aplicações web, desktop e em nuvem; automações em geral, backend e gestão em inteligência artificial. Adoro estudar sobre Ciência e Análise de Dados. Também sou vinculado à Faculdade de Computação (FACOMP) da UFPA, onde realizo pesquisas focadas em ondas milimétricas. Ocasionalmente, sou um entusiasta da área de segurança da informação.
 
 💬  I have experience with:
 
