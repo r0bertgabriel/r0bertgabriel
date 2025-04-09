@@ -11,16 +11,12 @@
 ## About Me
 🧑‍💻 Atualmente trabalho com desenvolvimento de aplicações web, desktop e em nuvem; automações em geral, backend e gestão em inteligência artificial. Adoro estudar sobre Ciência e Análise de Dados. Também sou vinculado à Faculdade de Computação (FACOMP) da UFPA, onde realizo pesquisas focadas em ondas milimétricas. Ocasionalmente, sou um entusiasta da área de segurança da informação.
 
-💬  I have experience with:
+💬  Tenho experiência com:
 
 - **Programming Languages**: SQL, Python, Shell Script, Go
 - **Tools & Frameworks**: Bash, Anaconda, Docker, Portainer, Baserow, n8n, Flowise, Qdrant.
 - **Data Science**: Data Analysis, Data Visualization, Machine Learning and Storytelling
 - **Mathematics**: Linear Algebra, Statistics
-
-## More About Me
-- 💬 I enjoy learning and applying new technologies to solve real-world problems. I currently use project-based learning methodology when I want to learn something new.
-- 🛠️ I am always open to collaborating on interesting projects and ideas.
 
 ###
 
