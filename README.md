@@ -1,6 +1,5 @@
 <div align="center">
   <h2>Hello World! 👋</h2>
-  <p>I'm Robert Gabriel.</p>
 </div>
 
 
