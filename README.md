@@ -2,12 +2,13 @@
   <h2>Hello World! 👋</h2>
 </div>
 
-## About Me
-🧑‍💻 Atualmente trabalho com desenvolvimento de aplicações web, desktop e em nuvem; automações em geral, backend e gestão em inteligência artificial. Adoro estudar sobre Ciência e Análise de Dados. Também sou vinculado à Faculdade de Computação (FACOMP) da UFPA, onde realizo pesquisas focadas em ondas milimétricas. Ocasionalmente, sou um entusiasta da área de segurança da informação.
+# About me
+🧑‍💻 I currently work with the development of web, desktop, and cloud applications, as well as software, marketing, and business process automation. My expertise also includes backend development and managing solutions based on artificial intelligence. I have a strong interest in Data Science and Data Analysis, which I continuously study to enhance my technical and analytical skills.
+I'm affiliated with the Faculty of Computing (FACOMP) at the Federal University of Pará (UFPA), where I conduct research focused on millimeter-wave technologies and Internet of Things (IoT) applications, with an emphasis on innovation and technological development.
 
 💬  Tenho experiência com:
 
-- **Programming Languages**: SQL, Python, Shell Script, Go
+- **Programming Languages**: SQL, Python, Shell Script, Golang, Javascript
 - **Tools & Frameworks**: Bash, Anaconda, Docker, Portainer, Baserow, n8n, Flowise, Qdrant, Redis, MinIO, Kestra
 - **Data Science**: Data Analysis, Data Visualization, Machine Learning and Storytelling
 - **Mathematics**: Linear Algebra, Statistics
@@ -18,12 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=r0bertgabriel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r0bertgabriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
 </div>
-
-## Portfolio
-
-- [Data Collection with IoT](https://github.com/r0bertds/ESP32NativeSense): Using esp32 boards for data collection, analysis and visualization with real-time dashboards.
-- [Machine learning in 5g transmission networks](https://github.com/Hiarleyy/Ns-3-simulations): Analysis and development of smart mobility systems in the context of millimeter waves.
-- [electronic time clock](https://github.com/DevcolabBR/bergamoto)
 
 ## Programming Languages
 <div align="left">
