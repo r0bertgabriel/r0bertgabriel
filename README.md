@@ -51,8 +51,6 @@ I'm affiliated with the Faculty of Computing (FACOMP) at the Federal University 
   <img width="11" />
   <img src="https://cdn.simpleicons.org/minio/C82B37" height="40" alt="minio logo" />
   <img width="11" />
-  <img src="https://cdn.simpleicons.org/kestra/3E68FF" height="40" alt="kestra logo" />
-  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="11" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
