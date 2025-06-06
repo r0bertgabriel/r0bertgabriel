@@ -2,10 +2,7 @@
   <h2>Hello World! 👋</h2>
 </div>
 
-
-
 ###
-
 
 ## About Me
 🧑‍💻 Atualmente trabalho com desenvolvimento de aplicações web, desktop e em nuvem; automações em geral, backend e gestão em inteligência artificial. Adoro estudar sobre Ciência e Análise de Dados. Também sou vinculado à Faculdade de Computação (FACOMP) da UFPA, onde realizo pesquisas focadas em ondas milimétricas. Ocasionalmente, sou um entusiasta da área de segurança da informação.
@@ -13,7 +10,7 @@
 💬  Tenho experiência com:
 
 - **Programming Languages**: SQL, Python, Shell Script, Go
-- **Tools & Frameworks**: Bash, Anaconda, Docker, Portainer, Baserow, n8n, Flowise, Qdrant.
+- **Tools & Frameworks**: Bash, Anaconda, Docker, Portainer, Baserow, n8n, Flowise, Qdrant, Redis, MinIO, Kestra
 - **Data Science**: Data Analysis, Data Visualization, Machine Learning and Storytelling
 - **Mathematics**: Linear Algebra, Statistics
 
@@ -24,19 +21,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r0bertgabriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
-
-
-
- 
-
-
 ## Portfolio
 
 - [Data Collection with IoT](https://github.com/r0bertds/ESP32NativeSense): Using esp32 boards for data collection, analysis and visualization with real-time dashboards.
 - [Machine learning in 5g transmission networks](https://github.com/Hiarleyy/Ns-3-simulations): Analysis and development of smart mobility systems in the context of millimeter waves.
 - [electronic time clock](https://github.com/DevcolabBR/bergamoto)
-
-
 
 ## Programming Languages
 <div align="left">
@@ -46,7 +35,6 @@
 </div>
 
 ###
-
 
 ## Tools & Frameworks
 <div align="left">
@@ -60,9 +48,17 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="11" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo" />
+  <img width="11" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/portainer/13BEF9" height="40" alt="portainer logo" />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/minio/C82B37" height="40" alt="minio logo" />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/kestra/3E68FF" height="40" alt="kestra logo" />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="11" />
@@ -71,15 +67,11 @@
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
+  <img width="11" />
   <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
-
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/n8n/EF6C00" height="40" alt="n8n logo" />
 </div>
-
-###
-
-
-
 
 ###
 
@@ -98,13 +90,10 @@
 
 ###
 
-
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - [Twitter](https://twitter.com/your-twitter)
 - [Portfolio](https://your-portfolio.com)
-- Email: robertgabriel@disroot.org,
-     public-key: A6E3823D10D27B7AD5E0690F8CFC9123D376DE8B
-
-
+- Email: robertgabriel@disroot.org  
+  Public Key: `A6E3823D10D27B7AD5E0690F8CFC9123D376DE8B`
 
 <img src="https://raw.githubusercontent.com/r0bertds/r0bertds/output/snake.svg" alt="Snake animation" />
