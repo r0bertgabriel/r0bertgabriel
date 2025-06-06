@@ -2,8 +2,6 @@
   <h2>Hello World! 👋</h2>
 </div>
 
-###
-
 ## About Me
 🧑‍💻 Atualmente trabalho com desenvolvimento de aplicações web, desktop e em nuvem; automações em geral, backend e gestão em inteligência artificial. Adoro estudar sobre Ciência e Análise de Dados. Também sou vinculado à Faculdade de Computação (FACOMP) da UFPA, onde realizo pesquisas focadas em ondas milimétricas. Ocasionalmente, sou um entusiasta da área de segurança da informação.
 
