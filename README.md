@@ -93,7 +93,5 @@
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - [Twitter](https://twitter.com/your-twitter)
 - [Portfolio](https://your-portfolio.com)
-- Email: robertgabriel@disroot.org  
-  Public Key: `A6E3823D10D27B7AD5E0690F8CFC9123D376DE8B`
 
 <img src="https://raw.githubusercontent.com/r0bertds/r0bertds/output/snake.svg" alt="Snake animation" />
