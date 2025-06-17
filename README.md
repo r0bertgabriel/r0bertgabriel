@@ -2,11 +2,6 @@
   <h2>Hello World! 👋</h2>
 </div>
 
-
-![StreakHub](https://streakhub.onrender.com/widget/r0bertgabriel)
-
-
-
 ### About me
 🧑‍💻 I currently work with the development of web, desktop, and cloud applications, as well as software, marketing, and business process automation. My expertise also includes backend development and managing solutions based on artificial intelligence. I have a strong interest in Data Science and Data Analysis, which I continuously study to enhance my technical and analytical skills.
 I'm affiliated with the Faculty of Computing (FACOMP) at the Federal University of Pará (UFPA), where I conduct research focused on millimeter-wave technologies and Internet of Things (IoT) applications, with an emphasis on innovation and technological development.
@@ -24,6 +19,8 @@ I'm affiliated with the Faculty of Computing (FACOMP) at the Federal University 
   <img src="https://github-readme-stats.vercel.app/api?username=r0bertgabriel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r0bertgabriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
 </div>
+
+![GitHub Stats](https://streak-stats.demolab.com?user=r0bertgabriel&theme=dark&hide_border=true)
 
 ## Programming Languages
 <div align="left">
