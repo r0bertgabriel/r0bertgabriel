@@ -2,6 +2,11 @@
   <h2>Hello World! 👋</h2>
 </div>
 
+
+![StreakHub](https://streakhub.onrender.com/widget/r0bertgabriel)
+
+
+
 ### About me
 🧑‍💻 I currently work with the development of web, desktop, and cloud applications, as well as software, marketing, and business process automation. My expertise also includes backend development and managing solutions based on artificial intelligence. I have a strong interest in Data Science and Data Analysis, which I continuously study to enhance my technical and analytical skills.
 I'm affiliated with the Faculty of Computing (FACOMP) at the Federal University of Pará (UFPA), where I conduct research focused on millimeter-wave technologies and Internet of Things (IoT) applications, with an emphasis on innovation and technological development.
