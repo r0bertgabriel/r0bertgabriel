@@ -16,11 +16,17 @@ I'm affiliated with the Faculty of Computing (FACOMP) at the Federal University 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r0bertgabriel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r0bertgabriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r0bertgabriel&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=r0bertgabriel&layout=compact&langs_count=5&theme=dracula&locale=en&hide_border=false)
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=r0bertgabriel&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
-![GitHub Stats](https://streak-stats.demolab.com?user=r0bertgabriel&theme=dark&hide_border=true)
+
+
 
 ## Programming Languages
 <div align="left">
