@@ -3,12 +3,17 @@
 </div>
 
 ### About me
-🧑‍💻 I currently work with the development of web, desktop, and cloud applications, as well as software, marketing, and business process automation. My expertise also includes backend development and managing solutions based on artificial intelligence. I have a strong interest in Data Science and Data Analysis, which I continuously study to enhance my technical and analytical skills.
-I'm affiliated with the Faculty of Computing (FACOMP) at the Federal University of Pará (UFPA), where I conduct research focused on millimeter-wave technologies and Internet of Things (IoT) applications, with an emphasis on innovation and technological development.
+Sou desenvolvedor e analista de sistemas, tenho experiência em desenvolvimento full-stack de aplicações web e também em  automações (code, low-code e no-code).
+Atualmente, também me dedico à pesquisa acadêmica em telecomunicações, com foco em Machine Learning aplicado a redes sem fio, pela Faculdade de Computação da Universidade Federal do Pará (UFPA).
+
+Tenho grande interesse em DevOps, IoT e cibersegurança, áreas nas quais busco constantemente expandir meus conhecimentos. Minha atuação combina prática e pesquisa, unindo soluções eficientes para o mercado com a exploração de novas tecnologias.
+
+
+
 
 💬  I have experience with:
 
-- **Programming Languages**: SQL, Python, Shell Script, Golang, Javascript
+- **Programming Languages**: SQL, Python, Shell Script, Golang, Javascript, Typescript, Java.
 - **Tools & Frameworks**: Bash, Anaconda, Docker, Portainer, Baserow, n8n, Flowise, Qdrant, Redis, MinIO, Kestra
 - **Data Science**: Data Analysis, Data Visualization, Machine Learning and Storytelling
 - **Mathematics**: Linear Algebra, Statistics
