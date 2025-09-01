@@ -2,7 +2,7 @@
   <h2>Olá, mundo! 👋</h2>
 </div>
 
-### About me
+### Atualmente...
 Sou desenvolvedor e analista de sistemas, tenho experiência em desenvolvimento full-stack de aplicações web e também em  automações (code, low-code e no-code).
 Atualmente, também me dedico à pesquisa acadêmica em telecomunicações, com foco em Machine Learning aplicado a redes sem fio, pela Faculdade de Computação da Universidade Federal do Pará (UFPA).
 
