@@ -11,10 +11,10 @@ Tenho grande interesse em DevOps, IoT e cibersegurança, áreas nas quais busco 
 
 
 
-💬  I have experience with:
+💬  Eu possuo conhecimento/experiência em:
 
 - **Programming Languages**: SQL, Python, Shell Script, Golang, Javascript, Typescript, Java.
-- **Tools & Frameworks**: Bash, Anaconda, Docker, Portainer, Baserow, n8n, Flowise, Qdrant, Redis, MinIO, Kestra
+- **Tools & Frameworks**: Bash, Anaconda, Docker,Postgres, Portainer, n8n, Flowise, Qdrant, Redis, MinIO, Kestra, Prisma ORM
 - **Data Science**: Data Analysis, Data Visualization, Machine Learning and Storytelling
 - **Mathematics**: Linear Algebra, Statistics
 
