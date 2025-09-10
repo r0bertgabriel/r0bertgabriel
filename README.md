@@ -3,7 +3,7 @@
 </div>
 
 ### Atualmente...
-Sou desenvolvedor e analista de sistemas, tenho experiência em desenvolvimento full-stack de aplicações web e também em  automações (code, low-code e no-code).
+Sou desenvolvedor e analista de sistemas, tenho experiência em desenvolvimento full-stack de aplicações web e também em  automações.
 Atualmente, também me dedico à pesquisa acadêmica em telecomunicações, com foco em Machine Learning aplicado a redes sem fio, pela Faculdade de Computação da Universidade Federal do Pará (UFPA).
 
 Tenho grande interesse em DevOps, IoT e cibersegurança, áreas nas quais busco constantemente expandir meus conhecimentos. Minha atuação combina prática e pesquisa, unindo soluções eficientes para o mercado com a exploração de novas tecnologias.
