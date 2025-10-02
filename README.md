@@ -9,6 +9,8 @@ Atualmente, também me dedico à pesquisa acadêmica em telecomunicações, com 
 Tenho grande interesse em DevOps, IoT e cibersegurança, áreas nas quais busco constantemente expandir meus conhecimentos. Minha atuação combina prática e pesquisa, unindo soluções eficientes para o mercado com a exploração de novas tecnologias.
 
 
+![Metrics](https://metrics.lecoq.io/r0bertgabriel?template=classic&languages=1&achievements=1¬able=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0¬able.from=organization¬able.repositories=false¬able.indepth=false¬able.types=commit&config.timezone=America%2FNew%20York)
+
 
 
 💬  Eu possuo conhecimento/experiência em:
@@ -22,12 +24,12 @@ Tenho grande interesse em DevOps, IoT e cibersegurança, áreas nas quais busco 
 
 <div align="center">
 
-  ![r0bert's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0bertgabriel&theme=tokyonight&show_icons=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r0bertgabriel&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=r0bertgabriel&layout=compact&langs_count=5&theme=dracula&locale=en&hide_border=false)
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=r0bertgabriel&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=r0bertgabriel&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
+![GitHub Stats](https://streak-stats.demolab.com?user=r0bertgabriel&theme=radical&hide_border=true)
 </div>
 
 
