@@ -21,7 +21,7 @@ Tenho grande interesse em DevOps, IoT e cibersegurança, áreas nas quais busco 
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r0bertgabriel&theme=radical&show_icons=true&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r0bertgabriel&theme=radical&show_icons=true&hide_border=true&count_include_orgs=true_private=true)
 
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=r0bertgabriel&theme=radical&show_icons=true&hide_border=true&layout=compact)
