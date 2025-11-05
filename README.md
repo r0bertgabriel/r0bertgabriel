@@ -9,7 +9,6 @@ Atualmente, também me dedico à pesquisa acadêmica em telecomunicações, com 
 Tenho grande interesse em DevOps, IoT e cibersegurança, áreas nas quais busco constantemente expandir meus conhecimentos. Minha atuação combina prática e pesquisa, unindo soluções eficientes para o mercado com a exploração de novas tecnologias.
 
 
-
 💬  Eu possuo conhecimento/experiência em:
 
 - **Programming Languages**: SQL, Python, Shell Script, Golang, Javascript, Typescript, Java, c++
