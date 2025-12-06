@@ -2,11 +2,12 @@
   <h2>Olá, mundo! 👋</h2>
 </div>
 
-### Atualmente...
-Sou desenvolvedor e analista de sistemas, tenho experiência em desenvolvimento full-stack de aplicações web e também em  automações.
-Atualmente, também me dedico à pesquisa acadêmica em telecomunicações, com foco em Machine Learning aplicado a redes sem fio, pela Faculdade de Computação da Universidade Federal do Pará (UFPA).
+## Currently...
 
-Tenho grande interesse em DevOps, IoT e cibersegurança, áreas nas quais busco constantemente expandir meus conhecimentos. Minha atuação combina prática e pesquisa, unindo soluções eficientes para o mercado com a exploração de novas tecnologias.
+I am a software developer and systems analyst with experience in full-stack web application development and process automation.
+I am also engaged in academic research in telecommunications, focusing on Machine Learning applied to wireless networks at the Faculty of Computing of the Federal University of Pará (UFPA), Brazil.
+
+I have a strong interest in DevOps, IoT, and cybersecurity — fields in which I am constantly expanding my skills. My work blends hands-on development with research, combining efficient market-ready solutions with the exploration of emerging technologies.
 
 
 💬  Eu possuo conhecimento/experiência em:
