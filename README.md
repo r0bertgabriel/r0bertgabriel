@@ -1,6 +1,6 @@
-<div align="center">
+
   <h2>Olá, mundo! 👋</h2>
-</div>
+
 
 ## Currently...
 
