@@ -10,7 +10,7 @@ I am also engaged in academic research in telecommunications, focusing on Machin
 I have a strong interest in DevOps, IoT, and cybersecurity — fields in which I am constantly expanding my skills. My work blends hands-on development with research, combining efficient market-ready solutions with the exploration of emerging technologies.
 
 
-💬  Eu possuo conhecimento/experiência em:
+💬  I have knowledge/experience in:
 
 - **Programming Languages**: SQL, Python, Shell Script, Golang, Javascript, Typescript, Java, c++
 - **Tools & Frameworks**: Bash, Anaconda, Docker,Postgres, Portainer, n8n, Flowise, Qdrant, Redis, MinIO, Kestra, Prisma ORM
