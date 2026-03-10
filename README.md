@@ -4,7 +4,7 @@
 
 ## Currently...
 
-I am a software developer and systems analyst with experience in full-stack web application development and process automation.
+I am a software developer and systems analyst with experience in Full-Stack Web Application Development and process Automation.
 I am also engaged in academic research in telecommunications, focusing on Machine Learning applied to wireless networks at the Faculty of Computing of the Federal University of Pará (UFPA), Brazil.
 
 I have a strong interest in DevOps, IoT, and cybersecurity — fields in which I am constantly expanding my skills. My work blends hands-on development with research, combining efficient market-ready solutions with the exploration of emerging technologies.
