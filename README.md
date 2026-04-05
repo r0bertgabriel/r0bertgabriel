@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=r0bertgabriel&color=6AD3F7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-6AD3F7?style=flat-square" alt="Focus"/>
   <img src="https://img.shields.io/badge/Research-ML%20%40%20UFPA-blueviolet?style=flat-square" alt="Research"/>
-  <img src="https://img.shields.io/badge/Location-Belém%2C%20Pará%20🇧🇷-1a6b4a?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Bel%C3%A9m%2C%20Par%C3%A1%20%F0%9F%87%A7%F0%9F%87%B7-1a6b4a?style=flat-square" alt="Location"/>
 </div>
 
 ---
@@ -255,12 +255,38 @@ developer = {
 ---
 
 <!-- Snake animation -->
-<!-- Para ativar: configure o GitHub Action Platane/snk no repositório r0bertgabriel/r0bertgabriel -->
+<!-- ⚠️ SETUP NECESSÁRIO: crie o repositório r0bertgabriel/r0bertgabriel (profile repo)
+     e adicione o arquivo .github/workflows/snake.yml com o conteúdo abaixo:
+
+     name: Generate Snake
+     on:
+       schedule:
+         - cron: "0 0 * * *"
+       workflow_dispatch:
+     jobs:
+       build:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: r0bertgabriel
+               outputs: |
+                 dist/github-snake.svg
+                 dist/github-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v3.1.0
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+     Após o primeiro run do workflow, as URLs abaixo passarão a funcionar.
+-->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r0bertgabriel/r0bertgabriel/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r0bertgabriel/r0bertgabriel/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/r0bertgabriel/r0bertgabriel/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r0bertgabriel/r0bertgabriel/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r0bertgabriel/r0bertgabriel/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/r0bertgabriel/r0bertgabriel/output/github-snake.svg"/>
   </picture>
 </div>
 
