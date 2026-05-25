@@ -100,6 +100,7 @@ developer = {
 
 ## 🚀 Projetos em Destaque
 
+
 <table>
   <tr>
     <td width="50%">
@@ -114,7 +115,8 @@ developer = {
         <img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white" alt="Meilisearch"/>
         <img src="https://img.shields.io/badge/MCP-7B2FBE?style=flat-square&logo=openai&logoColor=white" alt="MCP"/>
       </p>
-    </td>
+  </td>
+
 
     <td width="50%">
       <h3>📅 Sistema de Field Service Management</h3>
