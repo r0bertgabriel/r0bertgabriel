@@ -19,43 +19,93 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-I'm a **software developer** and **systems analyst** with strong experience in **Full-Stack Web Application Development**, **process automation**, and **system integrations**.
+Sou **desenvolvedor de software** e **analista de sistemas**, com forte experiência em **desenvolvimento de aplicações web Full-Stack**, **automação de processos** e **integrações de sistemas**.
 
-Currently building **multi-tenant SaaS platforms** and automating workflows for **retail and wholesale** businesses — from product catalog management to **WhatsApp/Chatwoot integrations** and asynchronous queue processing. I also build **data-driven web applications**, transforming raw data into **interactive dashboards** and **analytics solutions**.
+Atualmente desenvolvendo **plataformas SaaS multi-tenant** e automatizando fluxos de trabalho para empresas de **varejo e atacado** — desde gerenciamento de catálogos de produtos até integrações com **WhatsApp/Chatwoot** e processamento assíncrono com filas. Também desenvolvo **aplicações orientadas a dados**, transformando dados brutos em **dashboards interativos** e soluções de **análise de dados**.
 
-Also engaged in **academic research in telecommunications**, focusing on **Machine Learning applied to wireless networks** at the Faculty of Computing of the **Federal University of Pará (UFPA)** 🇧🇷.
+Também atuo em **pesquisa acadêmica em telecomunicações**, com foco em **Machine Learning aplicado a redes sem fio**, na Faculdade de Computação da **Universidade Federal do Pará (UFPA)** 🇧🇷.
 
 ```python
 developer = {
     "name":        "Robert Gabriel",
-    "location":    "Belém, Pará — Brazil 🇧🇷",
-    "roles":       ["Software Developer", "Systems Analyst", "ML Researcher"],
-    "research":    "ML for Wireless Networks @ UFPA",
-    "building":    ["SaaS Catalog API (Fastify + pgvector + BullMQ)",
-                     "FSM System (DDD + Clean Architecture + React + MUI)"],
-    "integrations":["WhatsApp", "Chatwoot", "Webhooks", "n8n", "Flowise", "MCP"],
-    "automation":  "Retail & wholesale: inventory sync, notifications, search indexing",
-    "analytics":   "Data analysis pipelines → interactive web dashboards & BI",
-    "infra":       ["Linux", "Windows Server", "Docker", "Docker Swarm"],
-    "focus":       ["DevOps", "IoT", "Cybersecurity", "Data Science", "Backend"],
-    "stack":       ["Python", "Go", "TypeScript", "SQL", "Shell Script", "C++"],
-    "learning":    ["Kubernetes", "Advanced ML", "Network Security"],
-    "fun_fact":    "I blend cutting-edge research with real-world retail solutions 🔬🛒"
+    "location":    "Belém, Pará — Brasil 🇧🇷",
+
+    "roles": [
+        "Desenvolvedor de Software",
+        "Analista de Sistemas",
+        "Pesquisador em ML"
+    ],
+
+    "research":
+        "Machine Learning para Redes Sem Fio @ UFPA",
+
+    "building": [
+        "SaaS Catalog API (Fastify + pgvector + BullMQ)",
+        "Sistema FSM (DDD + Clean Architecture + React + MUI)"
+    ],
+
+    "integrations": [
+        "WhatsApp",
+        "Chatwoot",
+        "Webhooks",
+        "n8n",
+        "Flowise",
+        "MCP"
+    ],
+
+    "automation":
+        "Varejo e atacado: sincronização de estoque, notificações e indexação de busca",
+
+    "analytics":
+        "Pipelines de análise de dados → dashboards web interativos e BI",
+
+    "infra": [
+        "Linux",
+        "Windows Server",
+        "Docker",
+        "Docker Swarm"
+    ],
+
+    "focus": [
+        "DevOps",
+        "IoT",
+        "Cybersecurity",
+        "Ciência de Dados",
+        "Backend"
+    ],
+
+    "stack": [
+        "Python",
+        "Go",
+        "TypeScript",
+        "SQL",
+        "Shell Script",
+        "C++"
+    ],
+
+    "learning": [
+        "Kubernetes",
+        "Machine Learning Avançado",
+        "Segurança de Redes"
+    ],
+
+    "fun_fact":
+        "Conectando pesquisa de ponta com soluções reais para varejo 🔬🛒"
 }
 ```
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Projetos em Destaque
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🛒 Multi-tenant SaaS Catalog API</h3>
+      <h3>🛒 API SaaS Multi-tenant para Catálogos</h3>
       <p>
-        REST API for <strong>retail &amp; wholesale product catalogs</strong> built with Fastify, PostgreSQL + pgvector, Redis and Meilisearch. Multi-tenant isolation, BullMQ workers, full-text + semantic search, discount/inventory management and MCP server for LLM integrations.
+        API REST para <strong>catálogos de produtos de varejo e atacado</strong>, construída com Fastify, PostgreSQL + pgvector, Redis e Meilisearch. Isolamento multi-tenant, workers com BullMQ, busca semântica e full-text, gerenciamento de descontos/estoque e servidor MCP para integrações com LLMs.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"/>
@@ -65,10 +115,11 @@ developer = {
         <img src="https://img.shields.io/badge/MCP-7B2FBE?style=flat-square&logo=openai&logoColor=white" alt="MCP"/>
       </p>
     </td>
+
     <td width="50%">
-      <h3>📅 Field Service Management System</h3>
+      <h3>📅 Sistema de Field Service Management</h3>
       <p>
-        Full FSM platform with <strong>DDD + Clean Architecture</strong>: 35 entities, 39 services, scheduling with conflict validation, granular RBAC, Kanban board, async PDF/Excel report generation, WhatsApp automation and PWA with push notifications.
+        Plataforma FSM completa utilizando <strong>DDD + Clean Architecture</strong>: 35 entidades, 39 serviços, agendamentos com validação de conflitos, RBAC granular, quadro Kanban, geração assíncrona de relatórios PDF/Excel, automações com WhatsApp e PWA com notificações push.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
@@ -79,11 +130,12 @@ developer = {
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
-      <h3>⚙️ System Integrations & Automation</h3>
+      <h3>⚙️ Integrações e Automação de Sistemas</h3>
       <p>
-        End-to-end <strong>automation pipelines</strong> connecting <strong>WhatsApp, Chatwoot, n8n and Flowise</strong> to business backends. Webhook-driven event processing, Redis caching, queue workers for notifications, search re-indexing and external API sync for retail operations.
+        Construção de <strong>pipelines de automação ponta a ponta</strong> conectando <strong>WhatsApp, Chatwoot, n8n e Flowise</strong> aos backends corporativos. Processamento de eventos via webhooks, cache com Redis, workers para notificações, reindexação de buscas e sincronização com APIs externas para operações de varejo.
       </p>
       <p>
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
@@ -93,10 +145,11 @@ developer = {
         <img src="https://img.shields.io/badge/Webhooks-FF6B35?style=flat-square&logo=zapier&logoColor=white" alt="Webhooks"/>
       </p>
     </td>
+
     <td width="50%">
-      <h3>📊 Data Analysis & Web Dashboards</h3>
+      <h3>📊 Engenharia de Dados e Dashboards Web</h3>
       <p>
-        Building <strong>data analysis pipelines</strong> and <strong>interactive web dashboards</strong> for business intelligence. Transforms raw data into visual insights using Python + Pandas/NumPy and delivers them as responsive web apps with charts, KPI panels and actionable reports.
+        Desenvolvimento de <strong>pipelines de análise de dados</strong> e <strong>dashboards web interativos</strong> para Business Intelligence. Transformação de dados brutos em insights visuais utilizando Python + Pandas/NumPy, entregando aplicações responsivas com gráficos, KPIs e relatórios acionáveis.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
