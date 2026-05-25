@@ -100,7 +100,6 @@ developer = {
 
 ## 🚀 Projetos em Destaque
 
-
 <table>
   <tr>
     <td width="50%">
