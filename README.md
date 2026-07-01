@@ -81,7 +81,7 @@ developer = {
         "Machine Learning Avançado",
         "Segurança de Redes",
     ],
-    "fun_fact": "Conectando pesquisa de ponta a soluções reais para o varejo 🔬🛒",
+    "fun_fact": "Conectando pesquisa de ponta a soluções reais.",
 }
 ```
 
