@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=r0bertgabriel&color=6AD3F7&style=flat-square&label=Profile+Views" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-6AD3F7?style=flat-square" alt="Focus: Backend and Systems" />
   <img src="https://img.shields.io/badge/Research-ML%20%40%20UFPA-blueviolet?style=flat-square" alt="Research: Machine Learning at UFPA" />
-  <img src="https://img.shields.io/badge/Location-Bel%C3%A9m%2C%20Par%C3%A1%20%F0%9F%87%A7%F0%9F%87%B7-1a6b4a?style=flat-square" alt="Location: Belém, Pará, Brazil" />
+  <img src="https://img.shields.io/badge/Location-Bel%C3%A9m%2C%20Par%C3%A1%20%F0%9F%87%A7%F0%9F%87%B7-1a6b4a?style=flat-square" alt="Location: Pará, Brazil" />
 </div>
 
 ---
