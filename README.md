@@ -29,7 +29,7 @@ Além disso, atuo em **pesquisa acadêmica em telecomunicações**, com foco em 
 ```python
 developer = {
     "name": "Robert Gabriel",
-    "location": "Belém, Pará — Brasil 🇧🇷",
+    "location": "Brasil 🇧🇷",
     "roles": [
         "Desenvolvedor de Software",
         "Analista de Sistemas",
