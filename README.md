@@ -101,7 +101,7 @@ developer = {
         <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" alt="BullMQ" />
         <img src="https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
         <img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white" alt="Meilisearch" />
-        <img src="https://img.shields.io/badge/MCP-7B2FBE?style=flat-square&logo=openai&logoColor=white" alt="Model Context Protocol" />
+        <img src="https://img.shields.io/badge/MCP-7B2FBE?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -176,7 +176,7 @@ developer = {
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JSON Web Token" />
   <img src="https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ" />
-  <img src="https://img.shields.io/badge/MCP-7B2FBE?style=for-the-badge&logo=openai&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/MCP-7B2FBE?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
 </div>
 
 ### 🖥️ Frontend
@@ -247,9 +247,14 @@ developer = {
 
 ## 📊 Estatísticas do GitHub
 
+<!--
+  Gerados como SVG estático pelo workflow .github/workflows/profile-cards.yml,
+  em vez da instância pública do github-readme-stats.vercel.app (que fica
+  fora do ar com frequência por excesso de tráfego).
+-->
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=r0bertgabriel&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub statistics for r0bertgabriel" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0bertgabriel&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Most used languages by r0bertgabriel" />
+  <img height="180" src="./profile/stats.svg" alt="GitHub statistics for r0bertgabriel" />
+  <img height="180" src="./profile/top-langs.svg" alt="Most used languages by r0bertgabriel" />
 </div>
 
 <div align="center">
@@ -260,16 +265,9 @@ developer = {
 
 ## 🏆 Troféus do GitHub
 
+<!-- Gerado como SVG estático pelo mesmo workflow (veja o comentário acima) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=r0bertgabriel&theme=tokyonight&no-frame=true&margin-w=8&column=4&row=2" alt="GitHub trophies for r0bertgabriel" />
-</div>
-
----
-
-## 📈 Gráfico de contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r0bertgabriel&theme=tokyo-night&hide_border=true&area=true&area_color=6AD3F7" alt="GitHub activity graph for r0bertgabriel" />
+  <img src="./profile/trophy.svg" alt="GitHub trophies for r0bertgabriel" />
 </div>
 
 ---
