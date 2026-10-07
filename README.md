@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=r0bertgabriel&color=6AD3F7&style=flat-square&label=Profile+Views" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-6AD3F7?style=flat-square" alt="Focus: Backend and Systems" />
   <img src="https://img.shields.io/badge/Research-ML%20%40%20UFPA-blueviolet?style=flat-square" alt="Research: Machine Learning at UFPA" />
-  <img src="https://img.shields.io/badge/Location-Bel%C3%A9m%2C%20Par%C3%A1%20%F0%9F%87%A7%F0%9F%87%B7-1a6b4a?style=flat-square" alt="Location: Pará, Brazil" />
+  <img src="https://img.shields.io/badge/Location-Bel%C3%A9m%2C%20Par%C3%A1%20%F0%9F%87%A7%F0%9F%87%B7-1a6b4a?style=flat-square" alt="Location: Belém, Pará, Brazil" />
 </div>
 
 ---
@@ -29,7 +29,7 @@ Além disso, atuo em **pesquisa acadêmica em telecomunicações**, com foco em 
 ```python
 developer = {
     "name": "Robert Gabriel",
-    "location": "Brasil 🇧🇷",
+    "location": "Belém, Pará, Brasil 🇧🇷",
     "roles": [
         "Desenvolvedor de Software",
         "Analista de Sistemas",
@@ -248,13 +248,13 @@ developer = {
 ## 📊 Estatísticas do GitHub
 
 <!--
-  Gerados como SVG estático pelo workflow .github/workflows/profile-cards.yml,
-  em vez da instância pública do github-readme-stats.vercel.app (que fica
-  fora do ar com frequência por excesso de tráfego).
+  Gerados como SVG estático pelo workflow .github/workflows/profile-cards.yml
+  (lowlighter/metrics), em vez de instâncias públicas como
+  github-readme-stats.vercel.app, que ficam fora do ar com frequência.
 -->
 <div align="center">
-  <img height="180" src="./profile/stats.svg" alt="GitHub statistics for r0bertgabriel" />
-  <img height="180" src="./profile/top-langs.svg" alt="Most used languages by r0bertgabriel" />
+  <img width="420" src="./profile/stats.svg" alt="GitHub statistics for r0bertgabriel" />
+  <img width="420" src="./profile/top-langs.svg" alt="Most used languages by r0bertgabriel" />
 </div>
 
 <div align="center">
